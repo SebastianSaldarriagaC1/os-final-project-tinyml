@@ -21,12 +21,6 @@ To run the application, you will need the following:
     git clone https://github.com/yourusername/anomaly-detection-tinyml.git
     ```
 
-2. Install the necessary Python dependencies for training the model:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 ### Notebooks on GitHub
