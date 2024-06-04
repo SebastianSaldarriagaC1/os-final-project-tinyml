@@ -29,8 +29,10 @@ The project includes Jupyter Notebooks for data preprocessing, model training, a
 
 #### Training the Model
 
-1. Open the Jupyter Notebook or Google Colab notebook (`model_training.ipynb`) for training the TinyML model.
+1. Open the Google Colab notebooks (`TinyML01_Data_preprocessing.ipynb`, `TinyML02_Model_training.ipynb` and `TinyML03_Model_validation_and_C_conversion.ipynb`) for training the TinyML model.
 2. Follow the instructions in the notebook to preprocess the dataset, train the model, and save the trained model files (`model.tflite` and `temperature_model.h`).
+
+**Note:** If you want to re-clean the dataset in the first Notebook, make sure to change the download link for the rest of them.
 
 ### Deploying the Model
 
